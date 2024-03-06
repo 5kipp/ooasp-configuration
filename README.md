@@ -12,9 +12,8 @@ The command to run the test cases is as you'd expect:
 
 Just be mindful that the partial instantiation are matched up with the correct config model (Bike for Bike and Modules for Modules).
 
-Here are the solving times for my encoding on my system for each test case:
-
-30 object IDs:
+Here are the solving times for my encoding on my system for each test case.
+solving times 30 object IDs:
 ```
 Modules 1 - 6.856s
 Modules 2 - 6.845s
@@ -26,7 +25,7 @@ Bike 2 - 2.920s
 Bike 3 - 0.526s
 Bike 4 - 0.938s (UNSAT)
 ```
-50 object IDs:
+solving times 50 object IDs:
 ```
 Modules 1 - 44.667s
 Modules 2 - 45.039s
